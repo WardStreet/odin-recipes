@@ -1,9 +1,10 @@
-header {
-    background-color: rgba(128, 128, 128, 0.274);
-    border: 5px solid rgba(4, 0, 255, 0.493)
-} 
+html {
+    background: rgba(21, 59, 21, 0.623);
+}
 
 header h1 {
     text-align: center;
-
+    font-family: "Norse";
+    background-color: red;
+    border: 5px solid rgba(4, 0, 255, 0.493)
 }
