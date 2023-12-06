@@ -2,13 +2,6 @@ html {
     background: orange
 }
 
-header h1 {
-    text-align: center;
-    font-family: "Times New Roman", Georgia, serif;
-    background-color: red;
-    border: 5px solid rgba(4, 0, 255, 0.493)
-}
-
 .gif-style {
     width: 300px;
     border: 15px solid green;
@@ -18,4 +11,21 @@ header h1 {
 .rotate {
     transform: rotate(180deg);
     position: fixed;
+}
+
+section div {
+    width:250px;
+    border: 15px solid greenyellow;
+    margin: 20px
+}
+
+.main {
+    color: purple
+}
+
+.list, #subsection{
+    text-align: center;
+    font-family: "Times New Roman", Georgia, serif;
+    background-color: red;
+    border: 5px solid rgba(4, 0, 255, 0.493)
 }
